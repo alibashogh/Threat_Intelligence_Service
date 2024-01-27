@@ -35,8 +35,8 @@ Ensure you have the following installed before setting up the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahmoodiian/ThreatIntelligenceReportingService.git
-   cd ThreatIntelligenceReportingService
+   git clone https://github.com/alibashogh/Threat_Intelligence_Service.git
+   cd Threat_Intelligence_Service
    ```
 
 2. Install dependencies:
